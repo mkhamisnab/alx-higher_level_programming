@@ -1,5 +1,6 @@
+#!/usr/bin/python3
 
-dule that contains class Base """
+"""Defines a base model class."""
 import json
 import csv
 import os.path
